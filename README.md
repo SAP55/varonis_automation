@@ -20,7 +20,7 @@ Run server.py
 $ python server.py
 ```
 
-Run pytest
+Open new terminal under root folder and run pytest
 ```bash
 $ pytest test_server.py
 ```
